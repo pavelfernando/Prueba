@@ -1,0 +1,8 @@
+primera linea de archivo
+
+tercera linea
+
+
+fin de documento 
+
+firma
